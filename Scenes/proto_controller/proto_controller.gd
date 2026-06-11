@@ -38,7 +38,7 @@ extends CharacterBody3D
 ## Name of Input Action to move Backward.
 @export var input_back : String = "backward"
 ## Name of Input Action to Jump.
-@export var input_jump : String = "ui_accept"
+@export var input_jump : String = "jump"
 ## Name of Input Action to Sprint.
 @export var input_sprint : String = "sprint"
 ## Name of Input Action to toggle freefly mode.
